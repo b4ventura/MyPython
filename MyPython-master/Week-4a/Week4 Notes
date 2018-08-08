@@ -1,0 +1,4 @@
+vi foo.py
+#! /usr/bin/python3
+q
+chmod +x foo.py
