@@ -7,6 +7,8 @@ For Homeworks go to https://classroom.ucsc-extension.edu
 
 Visualize http://pythontutor.com/visualize.html#mode=edit
 
+Real Python Tutorials - https://realpython.com
+
 Other Tutorials:
 https://www.tutorialspoint.com/python/index.htm
 
